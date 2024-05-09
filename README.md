@@ -17,6 +17,9 @@ Edition styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'
 # Install
 yarn
 
+#This line is only for testing purpose
+#2This line is only for testing purpose
+
 # Run build & watch for changes
 yarn dev
 ```
